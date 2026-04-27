@@ -1,0 +1,26 @@
+# OS generated files
+ehthumbs.db
+Thumbs.db
+
+# Credentials & local env files
+credentials.json
+credentials.txt
+*.pem
+.env
+.env*.local
+
+# Python virtual environments
+venv/
+env/
+.venv/
+article_venv/
+
+# Python & Jupyter cache/compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data & Output files - Hosted in Zenodo 
+out_files/
+dataset/
