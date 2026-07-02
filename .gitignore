@@ -24,3 +24,6 @@ __pycache__/
 # Data & Output files - Hosted in Zenodo 
 out_files/
 dataset/
+annotation_guidelines/
+dataset.zip
+SETN26.pdf
